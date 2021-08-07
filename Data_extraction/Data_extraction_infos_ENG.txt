@@ -1,1 +1,1 @@
-In this folder I reported every ipynb file I used in order to extract tennis tornament data since 2002.
+In this folder I reported every ipynb file I used in order to extract tennis tornament data since 2002. Furthermore I put in the folder the files used in order to build single descriptors.
