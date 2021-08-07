@@ -1,1 +1,1 @@
-
+In this folder I reported every file I used in order to build final descriptors, models and to predict the results of new tennis matches.
