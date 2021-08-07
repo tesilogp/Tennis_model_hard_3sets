@@ -1,0 +1,1 @@
+In questa cartella ho riportato tutti i file utili per la costruzione del descrittore finale, per costruire il modello e per effettuare la predizione per le partite nuove.
