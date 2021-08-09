@@ -1,0 +1,72 @@
+1) SINNER-KORDA
+   Il modello predice la vittoria di Sinner(72,50 %) come il bookmaker.
+   Presa
+   
+2) BERANKIS-JOHNSON
+   Il modello predice la vittoria di Johnson(83 %) come il bookmaker.
+   Presa
+   
+3) KUDLA-NAKASHIMA
+   Il modello predice la vittoria di Nakashima(82,50 %) come il bookmaker.
+   SBAGLIATA
+   
+4) MILLMAN-OPELKA
+   Il modello predice la vittoria di Opelka(79.50 %) come il bookmaker.
+   SBAGLIATA
+   
+5) NORRIE-NISHIKORI
+   Il modello predice la vittoria di Norrie(59 %) come il bookmaker.
+   SBAGLIATA
+   
+6) BROOKSBY-ALIASSIME
+   Il modello predice la vittoria di Aliassime(70.50 %) come il bookmaker.
+   SBAGLIATA
+   
+7) IVASHKA-McDONALD
+   Il modello predice la vittoria di Ivashka(67.50 %) come il bookmaker.
+   SBAGLIATA
+   
+8) NADAL-HARRIS
+   Il modello predice la vittoria di Nadal(75 %) come il bookmaker.
+   SBAGLIATA
+   
+9) MILLMAN-BROOKSBY
+   Il modello predice la vittoria di Millman(66.50 %) come il bookmaker.
+   SBAGLIATA
+   
+10) SINNER-JOHNSON
+   Il modello da predizioni CONTRASTANTI, il bookmaker dice Sinner.
+   
+11) HARRIS-NISHIKORI
+   Il modello predice la vittoria di Nishikori(75 %) come il bookmaker.
+   Presa
+   
+12) McDONALD-KUDLA
+   Il modello predice la vittoria di Kudla(75.50 %) al contrario del bookmaker.
+   SBAGLIATA
+   
+13) SINNER-BROOKSBY
+   Il modello predice la vittoria di Sinner(79.50 %) come il bookmaker.
+   PRESA
+   
+14) NISHIKORI-McDONALD
+   Il modello predice la vittoria di Nishikori(67.50 %) come il bookmaker.
+   SBAGLIATA
+   
+15) SINNER-McDONALD
+   Il modello predice la vittoria di Sinner(78.50 %) come il bookmaker.
+   PRESA
+   
+TOLTE LE PARTITE CONTRASTANTI, le prestazioni sono queste:
+Rapportate al bookmaker: 13/14 coincidono
+% prese senza screening %: 5/14, quindi 35,70 %
+% prese con screening al 65 %: 5/13, quindi 38.46 %
+% prese con screening al 70 %: 5/10, quindi 50 %
+% prese con screening al 75 %:  4/8, quindi 50 %
+% prese con screening all'80 %: 1/2, quindi 50 %
+   
+
+
+   
+
+   
